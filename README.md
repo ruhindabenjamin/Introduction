@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustajam
-- 👀 I’m interested in Web Development,Data science and Cyber security
+- 👀 I’m interested in Web Development, Cloud computing and DevOps
 - 🌱 I’m currently learning Software engineering at AUCA
-- 💞️ I’m looking to collaborate on Website Development, Data science and Reverse engineering
+- 💞️ I’m looking to collaborate on Website Development, Cloud computing and DevOps
 - 📫 Reach me at mail : benjamin.ruhinda@auca.ac.rw
 
 
